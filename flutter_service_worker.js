@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 ".git/config": "02f37ce3b6cd2e5c228cb0897769693e",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -96,6 +97,17 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
 "assets/fonts/MaterialIcons-Regular.otf": "726751a086707098189e11e1aa16cb3b",
 "assets/NOTICES": "09c7fb084839216aee809509cba29493",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "4103098eb88337bbd75d07db54f2c560",
+"assets/AssetManifest.bin.json": "13c9a18ee805161a35a990654f9be93f",
+"assets/AssetManifest.json": "1abdacb09733e95ba2f665f1141ff5e1",
+"assets/assets/images/logo.png": "6a6211ce35127af5caccd30a38b11df2",
+"assets/assets/images/personme.png": "e9e08ee983102d572b78b7c927792558",
+"assets/assets/images/points.png": "cd6da478faa7ce37b87eecd6b3792999",
+"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
+"assets/fonts/MaterialIcons-Regular.otf": "726751a086707098189e11e1aa16cb3b",
+"assets/NOTICES": "7cc2427f881ebe385f77c5ce9d0b3e8f",
+>>>>>>> 8e80a6e (first commit)
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "34094892e61eb2a17d2fed3a8347587f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "30319b651cc5a6f90fc6842103bf2f56",
@@ -115,16 +127,27 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "4a5fc423076dab6d82c16f432f861c9e",
+=======
+"flutter_bootstrap.js": "7a4196fa601eabf764380cfa00d79661",
+>>>>>>> 8e80a6e (first commit)
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "5d8f235d3de6394a54dbe61c31c8c935",
 "/": "5d8f235d3de6394a54dbe61c31c8c935",
 "main.dart.js": "54baffd08bbe8942ac9808b0699ef039",
 "manifest.json": "95eaade431955ca9b8f9104405c34d51",
 "README.md": "724e5f4068be3528d2b0a55183733562",
+=======
+"index.html": "7be2db4637d9c1d67df9573dee78b040",
+"/": "7be2db4637d9c1d67df9573dee78b040",
+"main.dart.js": "54baffd08bbe8942ac9808b0699ef039",
+"manifest.json": "95eaade431955ca9b8f9104405c34d51",
+>>>>>>> 8e80a6e (first commit)
 "version.json": "bfbe69c0fb5b3c7129b1dbb107a0ae06"};
 // The application shell files that are downloaded before a service worker can
 // start.
